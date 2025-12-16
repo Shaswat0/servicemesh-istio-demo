@@ -575,36 +575,6 @@ curl http://localhost:8080/api/customers | jq
 
 ---
 
-## 🚀 What You've Learned
-
-### Phase 1: Manual Sidecar Pattern ✅
-
-- Built a custom logging sidecar in Python
-- Integrated with Spring Boot via HTTP
-- Understood the fundamentals of sidecar pattern
-- Learned what coupling remains
-
-### Phase 2: Service Mesh Migration ✅
-
-- Installed Istio service mesh
-- Automatic Envoy sidecar injection
-- Simplified application code (removed manual sidecar integration)
-- Zero-code observability
-
-### Phase 3: Complete Observability ✅
-
-- **Logs:** Fluent Bit → Loki → Grafana
-- **Metrics:** Prometheus → Grafana
-- **Traces:** Jaeger → Grafana
-- **Topology:** Kiali for service mesh visualization
-
-### Real-World Skills ✅
-
-- Production-grade observability stack
-- Same tools used by Netflix, Uber, Google, Lyft
-- Understanding of ELK vs PLG tradeoffs
-- Service mesh architecture and benefits
-
 ## 📖 External Resources
 
 - [Istio Documentation](https://istio.io/latest/docs/)
